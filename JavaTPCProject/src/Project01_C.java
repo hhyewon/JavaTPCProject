@@ -25,12 +25,9 @@ public class Project01_C {
 			System.out.print(student.get("address")+"\t");
 			System.out.println(student.get("phone"));
 			//json 안에 있는 내가 원하는 두사람의 회원정보를 빼올수있다.
-			/* 홍길동	
-			서울	
-			010-1111-1111	
-			나길동	
-			광주	
-			010-2222-2222	
+			/* 
+				홍길동	서울	010-1111-1111
+				나길동	광주	010-2222-2222
 			*/
 		}
 	}
